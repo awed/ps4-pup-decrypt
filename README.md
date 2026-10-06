@@ -5,7 +5,7 @@ This repository is a fork of [andy-man/ps4-pup-decrypt](https://github.com/andy-
 The goal of this fork is to improve reliability, progress reporting, and diagnostics while preserving the original PUP decryption behavior.
 
 
-##### *WAS ONLY TESTED FOR RETAIL 13.52 DECRYPTING 14.00*
+##### (*WAS ONLY TESTED FOR RETAIL 13.52 DECRYPTING 14.00*)
 
 
 ### Changes in this fork
