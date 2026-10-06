@@ -3,7 +3,7 @@ Payload to decrypt the contents of a firmware update file (PUP) on the PlayStati
 
 The default (hardcoded) operation is to decrypt `/mnt/usb0/safe.PS4UPDATE.PUP` to `/mnt/usb0/entryname.dec`.
 
-This will only decrypt >= current firmware version installed, latest tested (installed) firmware is 11.05.
+This will only decrypt >= current firmware version installed, latest tested (installed) firmware is 13.52 decrypting 14.00.
 
 This will output a number of files (depending if a normal or a recovery update):
 * `/mnt/usb0/PS4UPDATE1.PUP.dec`
